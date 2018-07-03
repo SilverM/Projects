@@ -3,4 +3,5 @@
 2. FIFA WC 2018 predictions, using LightGBM for exact score predictions.(Completed)
 3. Santender Value Prediction Challenge (Completed)
 4. NBA Exploration & Visualization.ipynb
-5. Cryptocurrency analysis
+5. Cryptocurrency web scraping tool
+6. Ethereum MACD trading strategy
