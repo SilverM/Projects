@@ -6,3 +6,4 @@
 5. Cryptocurrency web scraping tool
 6. Ethereum MACD trading strategy
 7. Emma Watson's twitter sentiments analysis
+8. MINST Keras Digit Recognizer | Kaggle (https://www.kaggle.com/bigmom/mnist-digit-recognizer)
